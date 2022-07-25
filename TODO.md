@@ -16,7 +16,7 @@ Setup to-do list to keep the TDD flow on track.
 - ~~Common equals()~~
 - Common times()
 - ~~Compare Francs to Dollars~~
-- **Currency**
+- ~~Currency~~
 - Delete testFrancMultiplication?
 
 ### Notes:
