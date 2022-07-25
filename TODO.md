@@ -11,7 +11,10 @@ Setup to-do list to keep the TDD flow on track.
 - hashCode()
 - Equal Null
 - Equal Object
-- **5 CHF * 2 = 10 CHF**
+- ~~5 CHF * 2 = 10 CHF~~
+- Dollar/Franc Duplication
+- Common equals()
+- Common times()
 
 ### Notes:
 - Normal font - On the list
