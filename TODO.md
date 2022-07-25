@@ -11,6 +11,7 @@ Setup to-do list to keep the TDD flow on track.
 - hashCode()
 - Equal Null
 - Equal Object
+- **5 CHF * 2 = 10 CHF**
 
 ### Notes:
 - Normal font - On the list
