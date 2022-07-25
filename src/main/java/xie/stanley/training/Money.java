@@ -3,6 +3,8 @@ package xie.stanley.training;
 public abstract class Money {
 	protected int amount;
 
+	public abstract String currency();
+
 	public abstract Money times(int multiplier);
 
 	public static Money dollar(int amount) {
