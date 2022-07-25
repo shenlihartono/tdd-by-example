@@ -15,7 +15,8 @@ Setup to-do list to keep the TDD flow on track.
 - Dollar/Franc Duplication
 - ~~Common equals()~~
 - Common times()
-- **Compare Francs to Dollars**
+- ~~Compare Francs to Dollars~~
+- Currency
 
 ### Notes:
 - Normal font - On the list
