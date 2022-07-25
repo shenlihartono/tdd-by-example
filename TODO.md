@@ -7,7 +7,8 @@ Setup to-do list to keep the TDD flow on track.
 - Make 'amount' private
 - Dollar side effects?
 - Money Rounding?
+
 ### Notes:
-- Normal font - on the list
-- **Bold** font - Currently doing
+- Normal font - On the list
+- **Bold** font - What we're working on
 - ~~Strike Through~~ - Completed 
