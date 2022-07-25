@@ -7,6 +7,7 @@ Setup to-do list to keep the TDD flow on track.
 - Make 'amount' private
 - ~~Dollar side effects?~~
 - Money Rounding?
+- **Implement equals()**
 
 ### Notes:
 - Normal font - On the list
