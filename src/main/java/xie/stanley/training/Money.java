@@ -2,8 +2,16 @@ package xie.stanley.training;
 
 public abstract class Money {
 	protected int amount;
+	protected String currency;
 
-	public abstract String currency();
+	public Money(int amount, String currency) {
+		this.amount = amount;
+		this.currency = currency;
+	}
+
+	public String currency() {
+		return currency;
+	}
 
 	public abstract Money times(int multiplier);
 
@@ -14,7 +22,7 @@ public abstract class Money {
 	public static Money franc(int amount) {
 		return new Franc(amount, "CHF");
 	}
-	
+
 	@Override
 	public boolean equals(Object object) {
 		Money money = (Money) object;
