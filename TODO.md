@@ -12,7 +12,7 @@ Setup to-do list to keep the TDD flow on track.
 - Equal Null
 - Equal Object
 - ~~5 CHF * 2 = 10 CHF~~
-- **Dollar/Franc Duplication**
+- ~~Dollar/Franc Duplication~~
 - ~~Common equals()~~
 - ~~Common times()~~
 - ~~Compare Francs to Dollars~~
