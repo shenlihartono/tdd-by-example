@@ -1,8 +1,8 @@
 package xie.stanley.training;
 
 public class Sum implements Expression {
-	private Expression augend;
-	private Expression addend;
+	private final Expression augend;
+	private final Expression addend;
 
 	public Sum(Expression augend, Expression addend) {
 		this.augend = augend;
