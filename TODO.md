@@ -5,7 +5,7 @@ Setup to-do list to keep the TDD flow on track.
 - $5 + 10 CHF = $10 (with rate of 2:1)
 - $5 + $5 = $10
 - Return Money from $5 + $5
-- **Bank.reduce(Money)**
+- ~~Bank.reduce(Money)~~
 - ~~$5 * 2 = $10~~
 - ~~Make 'amount' private~~
 - ~~Dollar side effects?~~
